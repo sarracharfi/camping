@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "248861591273",
+    "firebase_url": "https://camp-ee562-default-rtdb.firebaseio.com",
+    "project_id": "camp-ee562",
+    "storage_bucket": "camp-ee562.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248861591273:android:4aea39fdb7dd9682a99278",
+        "android_client_info": {
+          "package_name": "com.example.camp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTUxbRMcNwuCP1Cu655_w7B53EsmaikEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
